@@ -13,7 +13,7 @@ export default function MentionsAction() {
           <h1>Mentions légales</h1>
           <h2>Conditions d'utilisation</h2>
           <p>
-            Toute personne qui accède au site Omisify.com (ci-après le "Site")
+            Toute personne qui accède au site Rasivy.com (ci-après le "Site")
             s'engage à respecter les présentes conditions d'utilisation, qui
             pourront pour certains services être complétées par des conditions
             particulières. Les données diffusées sur le réseau internet et

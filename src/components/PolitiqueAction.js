@@ -13,10 +13,10 @@ export default function PolitiqueAction() {
           <h1>Politique de confidentialité</h1>
           <h2>Protection des données personnelles</h2>
           <p>
-            Omisify est attentive à la protection des données personnelles et au
+            Rasivy est attentive à la protection des données personnelles et au
             respect de la vie privée. La présente politique de protection des
             données personnelles vous informe des traitements mis en place par
-            Omisify pour le présent site.
+            Rasivy pour le présent site.
           </p>
         </div>
         <div className="politique">
