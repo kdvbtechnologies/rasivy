@@ -15,7 +15,7 @@ export default function Footer() {
             <p>Mentions légales</p>
           </NavLink>
         </div>
-        <p>© 2022 Omisify</p>
+        <p>© 2022 Rasivy</p>
       </footer>
     </>
   );
