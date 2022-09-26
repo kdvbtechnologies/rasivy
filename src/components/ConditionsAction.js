@@ -30,20 +30,20 @@ export default function ConditionsAction() {
         <div className="politique">
           <h2>2. Site WEB:</h2>
           <p>
-            Le site web Omisify.com fournit un moyen pour les Utilisateurs
-            Porteurs de Projets de faire appel à Omisify pour les réaliser à bas
+            Le site web Rasivy.com fournit un moyen pour les Utilisateurs
+            Porteurs de Projets de faire appel à Rasivy pour les réaliser à bas
             prix. Le site fournit un service de creation de site internet et de
-            paiement optionel. Les clients qui choisissent Omisify pour la
+            paiement optionel. Les clients qui choisissent Rasivy pour la
             creation de leur site dès le début beneficie de l'autorisation de
             Paiement après la livraison. Les clients qui ont déjà un site
             existant c'est à dire un site créer par d'autres développeur ne
             beneficie pas de l'autorisation de Paiement apres la livraison en
             d'autres termes ils doivent payer avant que le travail ne soit
-            effectué. A partir du site web Omisify.com, nous fournissons des
+            effectué. A partir du site web Rasivy.com, nous fournissons des
             informations à propos de nos services ainsi que d'autres
             informations tiers. Nous pouvons modifier, supprimer ou ajouter une
             partie ou la totalité de ces informations à n'importe quel moment.
-            En validant cet Accord avec Omisify.com, vous acceptez les termes de
+            En validant cet Accord avec Rasivy.com, vous acceptez les termes de
             paiement décrits dans la section 6 et donc vous acceptez de payer
             certains services spécifiques.
           </p>
@@ -52,7 +52,7 @@ export default function ConditionsAction() {
         <div className="politique">
           <h2>3. LES SERVICES </h2>
           <p>
-            Omisify.com fournit des services à la fois aux particuliers et aux
+            Rasivy.com fournit des services à la fois aux particuliers et aux
             entreprises.
           </p>
         </div>
@@ -74,7 +74,7 @@ export default function ConditionsAction() {
           <h2>5. INFORMATIONS PUBLIEES SUR LE SITE WEB </h2>
           <p>
             Le Site Web peut contenir des liens vers des site web extérieurs qui
-            ne sont pas sous le contrôle de Omisify.com. Nous ne sommes pas
+            ne sont pas sous le contrôle de Rasivy.com. Nous ne sommes pas
             responsable du contenu de ces sites web ni des liens pouvant être
             contenu dans ces sites extérieurs.
           </p>
@@ -83,15 +83,15 @@ export default function ConditionsAction() {
         <div className="politique">
           <h2>6. PAIEMENTS </h2>
           <p>
-            Omisify perçoit des paiements en contreparties des services proposés
-            sur Omisify.com . Ces services commencent immédiatement, à partir du
-            moment où le paiement du Client est effectué et validé par Omisify.
+            Rasivy perçoit des paiements en contreparties des services proposés
+            sur Rasivy.com . Ces services commencent immédiatement, à partir du
+            moment où le paiement du Client est effectué et validé par Rasivy.
             De ce fait, en commandant nos services, vous pouvez profiter
             immédiatement des services commandés et vous renoncez explicitement
             à tout recours au droit de rétractation. Vous acceptez et comprenez
-            que Omisify.com peut modifier ses tarifs à n'importe quel moment. En
-            commandons nos services, vous acceptez que Omisify vous fournisse
-            une facture électronique.
+            que Rasivy.com peut modifier ses tarifs à n'importe quel moment. En
+            commandons nos services, vous acceptez que Rasivy vous fournisse une
+            facture électronique.
           </p>
         </div>
 
@@ -110,10 +110,10 @@ export default function ConditionsAction() {
         <div className="politique">
           <h2>8. ACTE</h2>
           <p>
-            Omisify.com a le droit de transférer ou d'assigner cet Accord à
-            toute autre personne ou entité sans votre consentement. Vous n'avez
-            pas le droit de transférer ou d'assigner cet Accord à des personnes
-            ou entité sans notre consentement antérieurement écrit.
+            Rasivy.com a le droit de transférer ou d'assigner cet Accord à toute
+            autre personne ou entité sans votre consentement. Vous n'avez pas le
+            droit de transférer ou d'assigner cet Accord à des personnes ou
+            entité sans notre consentement antérieurement écrit.
           </p>
         </div>
 
@@ -137,7 +137,7 @@ export default function ConditionsAction() {
         <div className="politique">
           <h2>10. DISPOSITIONS COMMUNES </h2>
           <p>
-            Le Contrat est conclu intuitu personae entre Omisify.com et
+            Le Contrat est conclu intuitu personae entre Rasivy.com et
             l'Utilisateur. Les droits et obligations qui en résultent ne peuvent
             être cédés, partiellement ou totalement, à des tiers, sauf en cas de
             fusion et acquisition. Les limitations et exclusions prévues dans
@@ -153,8 +153,8 @@ export default function ConditionsAction() {
             compétence exclusive du Tribunal de Commerce de Rio de Janeiro. Le
             droit brésilien sera applicable et la langue de procédure sera la
             langue Portugaise. Le Contrat contient l'ensemble des dispositions
-            contractuelles entre Omisify.com et l'Utilisateur à propos du Site
-            et des services qui y sont proposés, à l'exclusion de tout accord
+            contractuelles entre Rasivy.com et l'Utilisateur à propos du Site et
+            des services qui y sont proposés, à l'exclusion de tout accord
             antérieur.
           </p>
         </div>
