@@ -22,7 +22,7 @@ export default function HomeAction() {
         <div className="introduce-mytitle">
           <p>Economisez de l'argent ! Gagnez du temps !</p>
           <p>
-            Omisify se charge de la création de votre site internet et vous le
+            Rasivy se charge de la création de votre site internet et vous le
             livre le plus rapidement possible pour seulement 10€.
           </p>
           <p>Vous payerez après la livraison !</p>
