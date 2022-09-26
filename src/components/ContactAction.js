@@ -1,7 +1,15 @@
+import Navigation from "./Navigation";
+
 export default function ContactAction() {
   return (
     <>
-      <h1>Contact P</h1>
+      <Navigation />
+      <div className="contact">
+        <div className="contact-title">
+          <h1>Contactez-Nous</h1>
+          <p>E-mail : contact@rasivy.com</p>
+        </div>
+      </div>
     </>
   );
 }
