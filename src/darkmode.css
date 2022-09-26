@@ -281,3 +281,127 @@ padding: 0px 10px;
     border: 3px solid black;
   cursor: pointer;
   }
+
+  
+@media screen and (max-width: 760px) {
+  .navigation .right-navigation .navlink {
+    text-decoration: none;
+}
+
+.navigation .right-navigation .navlink li {
+    display: inline;
+    color: white;
+    list-style: none;
+    padding: 10px 5px;
+    font-size: 18px;
+}
+
+.navigation .left-navigation .navlink {
+  text-decoration: none;
+}
+
+.navigation .left-navigation .navlink li {
+  color: white;
+  list-style: none;
+  font-size: 22px;
+  padding: 0px 10px;
+}
+
+.introduce .introduce-title {
+  padding: 70px 30px;
+  color: black;
+  font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 21px;
+}
+
+.introduce-title button {
+  color: white;
+  text-align: center;
+  background-color: blue;
+  cursor: pointer;
+  border: none;
+  padding: 10px 15px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 16px;
+}
+
+    .div {
+      width: 100%;
+      text-align: center;
+      background-color: red;
+      font-size: 20px;
+      color: white;
+      padding: 90px 0;
+        -webkit-clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
+        clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
+        position: absolute;
+    }
+
+    .p3 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px;
+      padding: 350px 50px;
+    }
+
+    .p3  button {
+      color: white;
+      text-align: center;
+      background-color: blue;
+      cursor: pointer;
+      border: none;
+      padding: 10px 20px;
+      font-family: Roboto, Arial, sans-serif;
+      font-size: 16px;
+    }
+
+    .posts {
+      padding: 80px 0px;
+    }
+
+    .introduce .posts .post li { 
+      padding: 10px 0px;
+      font-size: 16px;
+      color: black;
+    }
+
+    .introduce .posts .post p { 
+      font-size: 16px;
+      padding: 10px 0px;
+    }
+
+    .introduce .posts .post h1 { 
+      font-size: 30px;
+    }
+
+    .introduce .posts .post {
+      width: auto;
+      border: 2px solid #cdcdcd;
+      border-radius: 12px;
+      padding: 40px 30px;
+    }
+
+    .contact-title {
+      width: 250px;
+      height: auto;
+      padding: 20px;
+      font-size: 16px;
+      border: 3px solid  #4e4e4e;
+      margin-top: 100px;
+      border-radius: 15px;
+    }
+
+    .introduce .introduce-mytitle {
+      margin-bottom: 100px;
+      padding: 60px;
+      background: red;
+      color: white;
+      font-size: 22px;
+    }
+    
+    .introduce .introduce-mytitle p {
+      padding: 10px 0px;
+    }
+    }
