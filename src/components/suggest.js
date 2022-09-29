@@ -5,7 +5,9 @@ export default function Suggest() {
     <>
       <div className="suggest">
         <hr />
-        <p>Nos recommandations</p>
+        <div className="title">
+          <p>Nos recommandations</p>
+        </div>
         <hr />
         <div className="a">
           <div className="b">

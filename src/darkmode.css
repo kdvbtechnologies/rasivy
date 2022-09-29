@@ -349,8 +349,15 @@ padding: 0px 10px;
     font-family: "Roboto",arial,sans-serif;
   }
 
+  /* suggest.js */
   .suggest {
-    padding: 100px 0px;
+    padding: 200px 0px;
+  }
+
+  .suggest .title p {
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
   }
 
   .suggest a {
