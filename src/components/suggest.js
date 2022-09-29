@@ -2,7 +2,9 @@ export default function Suggest() {
   return (
     <>
       <div className="suggest">
+        <hr />
         <p>Nos recommandations</p>
+        <hr />
         <li>
           Pour la création de gros site internet nous recommandons React JS et
           NodeJS associé
