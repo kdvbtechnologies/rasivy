@@ -4,8 +4,7 @@ export default function ContactAction() {
       <div className="contact">
         <div className="contact-title">
           <h1>Contactez-Nous</h1>
-          <p>E-mail : contact@rasivy.com</p>
-          <p>Whatsapp : +242066603930</p>
+          <p>E-mail : contact@alrani.com</p>
         </div>
       </div>
     </>
