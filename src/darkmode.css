@@ -166,6 +166,8 @@ padding: 30px;
 color: #4e4e4e;
 }
 
+
+
 .cards .card {
 border: 2px solid  #cdcdcd;;
 border-radius: 12px;
@@ -178,6 +180,11 @@ color:  #4e4e4e;
 font-family: Helvetica, sans-serif;
 text-align: center;
 margin: 20px 0px;
+}
+
+.card-desc .subtitle p {
+  color: #444;
+  margin: 0px -10px;
 }
 
 .card-desc .bonus  {

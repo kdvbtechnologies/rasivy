@@ -26,7 +26,7 @@ export default function Type() {
           <li>Site de Banque</li>
           <li>Site de cryptomonnaie</li>
           <li>Application Web Progressive (PWA)</li>
-          <li>Site d'hotel</li>
+          <li>Site d'hôtel</li>
           <li>Site de Restaurant</li>
           <li>Site de Magasin</li>
           <li>Site d'Ecole</li>
@@ -36,7 +36,7 @@ export default function Type() {
           <li>Site de mise en relation</li>
           <li>Site de Cabinet d'avocat</li>
           <li>Site de Cabinet dentaire</li>
-          <li>Site d'hopital</li>
+          <li>Site d'hôpital</li>
           <li>Site d'actualités</li>
           <li>Site d'annonces</li>
           <li>Panneau d'administration pour la bonne gestion du site</li>
