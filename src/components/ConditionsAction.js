@@ -15,15 +15,15 @@ export default function ConditionsAction() {
           <p>
             Les Termes et Conditions suivantes s'appliquent à l'utilisation de
             ce site Web. Cet Accord (désigné sous le nom de « Accord ») désigne
-            l'Accord contractuel entre le site Omisify.com (« Omisify.com », «
+            l'Accord contractuel entre le site Rasivy.com (« Rasivy.com », «
             nous », « on ») et vous (« Utilisateur », « vous », « votre », « vos
             ») qui acceptez les termes de cet Accord en accédant au site
-            Omisify.com. Cet Accord devient effectif au moment où vous accédez
-            au site Omisify.com . Cet Accord régit les règles d'utilisation du
-            site web Omisify.com ainsi que les transactions effectuées entre
-            vous et Omisify. Maintenant en considération des termes et
-            conditions de cet Accord contenus dans la suite de ce document, vous
-            acceptez tout ce qui suit :
+            Rasivy.com. Cet Accord devient effectif au moment où vous accédez au
+            site Rasivy.com . Cet Accord régit les règles d'utilisation du site
+            web Rasivy.com ainsi que les transactions effectuées entre vous et
+            Rasivy. Maintenant en considération des termes et conditions de cet
+            Accord contenus dans la suite de ce document, vous acceptez tout ce
+            qui suit :
           </p>
         </div>
 

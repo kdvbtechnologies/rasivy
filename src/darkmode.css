@@ -349,6 +349,44 @@ padding: 0px 10px;
     font-family: "Roboto",arial,sans-serif;
   }
 
+  .suggest {
+    padding: 100px 0px;
+  }
+
+  .suggest a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .suggest .b li {
+    padding: 20px;
+    font-size: 17px;
+  }
+
+  .suggest .b p {
+    padding: 20px;
+    font-size: 17px;
+    font-weight: 500;
+  }
+
+  .navlink {
+    text-decoration: none;
+  }
+
+  .suggest .a .b button {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    padding: 20px 15px;
+    margin: 20px 0px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: "Roboto",arial,sans-serif;
+  }
+
   
 @media screen and (max-width: 760px) {
   .navigation .right-navigation .navlink {

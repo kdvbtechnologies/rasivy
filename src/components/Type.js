@@ -47,7 +47,7 @@ export default function Type() {
             Restful.
           </p>
           <p>
-            Soumettez votre projet, nous vous aiderons à estimer le cout total.
+            Soumettez votre projet, nous vous aiderons à estimer le coût total.
           </p>
         </div>
         <NavLink to="/contact">
