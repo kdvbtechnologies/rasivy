@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import logo from "../images/rasivy-logo.png";
 
 export default function Navigation() {
   return (
@@ -6,7 +7,9 @@ export default function Navigation() {
       <div className="navigation">
         <div className="left-navigation">
           <NavLink className="navlink" to="/">
-            <li>Rasivy</li>
+            <li>
+              <img src={logo} alt="rasivy-logo" />
+            </li>
           </NavLink>
         </div>
         <div className="right-navigation">

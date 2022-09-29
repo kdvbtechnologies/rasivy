@@ -1,5 +1,7 @@
 import { NavLink } from "react-router-dom";
 import Footer from "./Footer";
+import Suggest from "./suggest";
+import Type from "./Type";
 /*import { Helmet } from "react-helmet";
 <Helmet>
         <body className="body-navbar"></body>
@@ -152,6 +154,8 @@ export default function HomeAction() {
           </div>
         </div>
       </div>
+      <Type />
+      <Suggest />
       <Footer />
     </>
   );
