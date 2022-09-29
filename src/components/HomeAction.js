@@ -17,13 +17,15 @@ export default function HomeAction() {
     <>
       <div className="introduce">
         <div className="introduce-title">
-          <p>" Obtenez votre site internet complet pour seulement 10€ "</p>
+          <p>
+            Création des Applications rapides(PWA) et des sites internet à 100€
+          </p>
         </div>
         <div className="introduce-mytitle">
           <p>Economisez de l'argent ! Gagnez du temps !</p>
           <p>
             Rasivy se charge de la création de votre site internet et vous le
-            livre le plus rapidement possible pour seulement 10€.
+            livre le plus rapidement possible pour seulement 100€.
           </p>
           <p>Vous payerez après la livraison !</p>
         </div>
@@ -40,7 +42,7 @@ export default function HomeAction() {
               <p>Création de petit site internet avec HTML5</p>
               <div className="price">
                 <p>À partir de</p>
-                <h1>10€</h1>
+                <h1>100€</h1>
 
                 <NavLink to="/contact">
                   <button>Souscrire</button>
@@ -68,7 +70,7 @@ export default function HomeAction() {
               <p>Création de gros site internet avec JS</p>
               <div className="price">
                 <p>À partir de</p>
-                <h1>25€</h1>
+                <h1>35€</h1>
                 <p>par fonctionnalité</p>
 
                 <NavLink to="/contact">
@@ -98,7 +100,7 @@ export default function HomeAction() {
               <p>Création de gros site internet avec PHP</p>
               <div className="price">
                 <p>À partir de</p>
-                <h1>35€</h1>
+                <h1>45€</h1>
                 <p>par fonctionnalité</p>
 
                 <NavLink to="/contact">
@@ -128,7 +130,7 @@ export default function HomeAction() {
               <p>Création de gros site internet avec REACT</p>
               <div className="price">
                 <p>À partir de</p>
-                <h1>40€</h1>
+                <h1>70€</h1>
                 <p>par fonctionnalité</p>
 
                 <NavLink to="/contact">

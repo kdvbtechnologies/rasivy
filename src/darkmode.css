@@ -43,23 +43,19 @@
 
 footer {
   width: 100%;
-  text-align: center;
-  background-color: blue;
-  color: white;
-  padding: 90px 0;
-  margin: 300px 0;
-  -webkit-clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
-  clip-path: polygon(0 0, 100% 15%, 100% 100%, 0 85%);
-  position: absolute;
+  background-color: #444;
+  color: #cdcdcd;
+  padding: 20px 0;
 }
 
-footer .footer-linkk {
+ .footer-linkk {
   text-decoration: none;
 }
 
-
-footer .footer-link p {
-color: white;
+.footer-link p {
+  color: #999999;
+  display: inline;
+  padding: 0px 30px;
 }
 
 
@@ -227,7 +223,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: blue;
+  background: white;
   padding: 20px;
 }
 
@@ -237,7 +233,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 .navigation .right-navigation .navlink li {
   display: inline;
-  color: white;
+  color: blue;
   list-style: none;
   padding: 10px 20px;
   font-size: 22px;
@@ -248,7 +244,7 @@ text-decoration: none;
 }
 
 .navigation .left-navigation .navlink li {
-color: white;
+color: blue;
 list-style: none;
 font-size: 30px;
 padding: 0px 10px;
@@ -290,7 +286,7 @@ padding: 0px 10px;
 
 .navigation .right-navigation .navlink li {
     display: inline;
-    color: white;
+    color: blue;
     list-style: none;
     padding: 10px 5px;
     font-size: 18px;
@@ -301,7 +297,7 @@ padding: 0px 10px;
 }
 
 .navigation .left-navigation .navlink li {
-  color: white;
+  color: blue;
   list-style: none;
   font-size: 22px;
   padding: 0px 10px;
@@ -404,4 +400,15 @@ padding: 0px 10px;
     .introduce .introduce-mytitle p {
       padding: 10px 0px;
     }
+
+    footer {
+      width: 100%;
+      background-color: #444;
+      color: #cdcdcd;
     }
+
+    .footer-link p {
+      font-size: 13px;
+      padding: 20px 10px;
+    }
+  }
